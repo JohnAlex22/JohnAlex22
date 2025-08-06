@@ -1,10 +1,10 @@
-<div style="display: flex; align-items: center; justify-content: center;">
-  <h1 style="margin: 0 10px 0 0;">Bienvenid@ al GitHub de JxhNNN</h1>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJyeWxycG1penc3bnp6ZXJxOXhnZzI4dmgzdnA3Zmozd2k2aHk5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif"
-       width="80"
-       alt="GIF animado"
-       style="margin-left: 10px;" />
-</div>
+<table>
+  <tr>
+    <td><h1>Bienvenid@ al GitHub de JxhNNN</h1></td>
+    <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJyeWxycG1penc3bnp6ZXJxOXhnZzI4dmgzdnA3Zmozd2k2aHk5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="80" alt="GIF animado" /></td>
+  </tr>
+</table>
+
 
 <img src="https://raw.githubusercontent.com/JohnAlex22/JohnAlex22/main/John Bustamante.png" alt="Banner de JxhNNN">
 
